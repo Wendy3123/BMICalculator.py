@@ -1,4 +1,6 @@
-#LESSON 1 (SOLVE ALL THREE PROBLEMS)
+# LESSON 1 (SOLVE ALL THREE PROBLEMS)
+
+~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ .
 
 ## BMICalculator.py
 
