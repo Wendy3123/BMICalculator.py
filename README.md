@@ -1,4 +1,6 @@
-# BMICalculator.py
+#LESSON 1 (SOLVE ALL THREE PROBLEMS)
+
+## BMICalculator.py
 
 Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
 
@@ -14,7 +16,7 @@ height = 1.75
 80 ÷ (1.75 x 1.75) = 26.122448979591837
 26
 
-# LifeInWeeks.py
+## LifeInWeeks.py
 
 Create a program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old.
 
@@ -28,7 +30,7 @@ Example Input :
 Let users input their age: 56
 Then print calculation: You have 12410 days, 1768 weeks, and 408 months left.
 
-# TipCalculator.py
+## TipCalculator.py
 
 Calculate the tip given the total bill price. Ask for number of people we are dividing by and how much tip to give.
 If the bill was $150.00, split between 5 people, with 12% tip. Each person should pay (150.00 / 5) \* 1.12 = 33.6
