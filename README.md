@@ -1,7 +1,5 @@
 # LESSON 1 (SOLVE ALL THREE PROBLEMS)
 
-~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ . ~ .
-
 ## BMICalculator.py
 
 Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
